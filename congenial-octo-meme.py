@@ -17,6 +17,9 @@ def main():
     print("         I'm        searching")
     print("           *        *")
     print("             **for**")
+    print()
+    print("Source:      http://imgur.com/Quyu1Pc")
+    print("Inspiration: https://twitter.com/OldManKris/status/673184195485790208")
 
 if __name__ == '__main__':
     main()
